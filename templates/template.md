@@ -39,11 +39,9 @@ the basic formatting and structure conventions we want to see from an FCP.
 ## Solution Discussion
 
 Clear-eyed people may notice that the structure of this example is different
-from that of
-[FCP 0](https://github.com/jeamland/fcp/blob/master/accepted/FCP-0000.md). This
-is not a bug. In most cases this structure will work but if it doesn't allow
-you to properly express and discuss your proposal you should feel free to
-change that.
+from that of [FCP 0](../accepted/FCP-0000.md). This is not a bug. In most cases
+this structure will work but if it doesn't allow you to properly express and
+discuss your proposal you should feel free to change that.
 
 Formatting is a different matter. This example is in
 [Markdown](https://guides.github.com/features/mastering-markdown/#syntax), has
@@ -52,7 +50,6 @@ lists all the authors of this proposal and its current state. You should
 always do these things in your proposal.
 
 Once you've finished writing your proposal you should follow the instructions
-in [FCP 0](https://github.com/jeamland/fcp/blob/master/accepted/FCP-0000.md) to
-move forward.
+in [FCP 0](../accepted/FCP-0000.md) to move forward.
 
 Good luck!
