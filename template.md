@@ -53,3 +53,10 @@ Once you've finished writing your proposal you should follow the instructions
 in [FCP 0](./FCP-0000.md) to move forward.
 
 Good luck!
+
+## Final Disposition
+
+This section is for detailing the reasoning behind the final status of the FCP.
+If you withdraw your FCP you can outline your reasons here. If core accepts
+or rejects the FCP they can add their reasoning here. It should not be present
+in FCPs prior to the `accepted`, `rejected` or `withdrawn` states.
