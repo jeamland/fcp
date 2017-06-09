@@ -2,4 +2,4 @@
 
 FCP                       | State     | Owners                | Title
 --------------------------|-----------|-----------------------|------
-[FCP 0](./fcp-0000.md)    | draft     | allanjude, gnn, benno | FreeBSD Community Proposal Process and Authoring Guide
+[FCP 0](./fcp-0000.md)    | feedback  | allanjude, gnn, benno | FreeBSD Community Proposal Process and Authoring Guide
